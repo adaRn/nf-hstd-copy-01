@@ -6,11 +6,11 @@ sections:
         url: /features
     component: hero_block.html
     content: >-
-      Launch UniFi in the cloud in 53 seconds. No more fiddling with setting up
-      scripts, backup strategies or controller updates.
+      In 53 seconds. No more fiddling with setting up scripts. Automated backup
+      strategies. Forget about controller updates.
     image: /images/hero.png
     section_id: hero
-    title: This Is A Big Hero Headline
+    title: Launch UniFi in the cloud.
     type: heroblock
   - bg: gray
     component: features_block.html
