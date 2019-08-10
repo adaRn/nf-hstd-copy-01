@@ -24,6 +24,6 @@ params:
       actions:
         - label: Sign Up
           url: /signup
-  palette: purple
+  palette: blue
 disableKinds:
   - RSS
