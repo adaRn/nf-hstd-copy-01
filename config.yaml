@@ -2,7 +2,7 @@ title: UniFi hosted
 baseURL: /
 params:
   footer:
-    content: '&copy; Stackbit. All rights reserved.'
+    content: '&copy; Modelit Andrzej Sibik. All rights reserved.'
     has_nav: true
     has_social: true
     has_subscribe: true
@@ -10,12 +10,12 @@ params:
       - new_window: true
         text: Made with Stackbit
         url: 'https://www.stackbit.com'
-    logo_img: images/logo_alt.png
+    logo_img: /images/logo.png
     nav_title: Company
     social_title: Community
     subscribe_content: Stay up to date with our latest developments.
     subscribe_title: Subscribe
-    tagline: SaaS theme by Stackbit
+    tagline: Modelit Andrzej Sibik EU VAT ID PL9690000731
   header:
     has_nav: true
     logo_img: /images/logo.png
@@ -24,6 +24,6 @@ params:
       actions:
         - label: Sign Up
           url: /signup
-  palette: blue
+  palette: green
 disableKinds:
   - RSS
