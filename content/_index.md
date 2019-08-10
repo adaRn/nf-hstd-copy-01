@@ -23,16 +23,16 @@ sections:
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
           consequat ex.
         image: images/feature1.png
-        title: The Best Feature of Your Services
+        title: No more fiddling with setting up scripts.
       - actions:
-          - label: Learn More
+          - label: Predictable pricing.
             url: /features
         content: >-
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
           auctor.
         image: images/feature2.png
-        title: Awesome Feature of Your Services
+        title: Automated backups strategies.
       - actions:
           - label: Learn More
             url: /features
@@ -51,22 +51,22 @@ sections:
   - bg: white
     component: reviews_block.html
     reviews:
-      - author: John Doe
+      - author: Merry Toon
         avatar: images/review1.jpg
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Jane Roe
+          Easy and simple UniFi and UNMS hosting at solid prices. Unifi Hosted
+          takes care of server and controller updates. What more could you ask
+          for? Support is great too!
+      - author: Hez Jailwood
         avatar: images/review2.jpg
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-      - author: Richard Roe
+          I've now set up a VPS-Unlimited package and moved our four Cloud Keys
+          across. It's all working beautifully!
+      - author: David Roe
         avatar: images/review3.jpg
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Thanks again for putting so much thought into the service, it
+          definitely shows to those who look!
     section_id: reviews
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
