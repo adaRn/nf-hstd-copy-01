@@ -7,8 +7,6 @@ menu:
     name: Installation instructions
 layout: page
 ---
-Fantastic! Your UniFi server is ready!
-
 ## Credentials
 
 Your admin username and password will be delivered to you in 24 hours on your email inbox.
