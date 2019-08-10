@@ -2,6 +2,9 @@
 title: Subscription finalised
 subtitle: Instructions on how to get your UniFi running.
 img_path: /images/screenshot-2019-08-10-at-13.32.51.png
+menu:
+  secondary:
+    name: Installation instructions
 layout: page
 ---
 Fantastic! Your UniFi server is ready!
