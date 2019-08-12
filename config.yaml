@@ -6,10 +6,7 @@ params:
     has_nav: true
     has_social: true
     has_subscribe: true
-    links:
-      - new_window: true
-        text: Made with Stackbit
-        url: 'https://www.stackbit.com'
+    links: []
     logo_img: /images/logo.png
     nav_title: Company
     social_title: Community
@@ -24,6 +21,6 @@ params:
       actions:
         - label: Sign Up
           url: /signup
-  palette: green
+  palette: orange
 disableKinds:
   - RSS
