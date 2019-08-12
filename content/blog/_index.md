@@ -2,7 +2,8 @@
 title: Blog
 menu:
   secondary:
-    name: Blog
-    weight: 2
+    name: ''
+    weight: ''
 layout: blog
 ---
+
