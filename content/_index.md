@@ -17,7 +17,7 @@ sections:
     featureslist:
       - actions:
           - label: About us
-            url: /about-us
+            url: /about
         content: >-
           We’ve created a service we wish we had back then and we use on our own
           with 13 000 devices and counting, mostly in Western Europe. With our
@@ -33,14 +33,12 @@ sections:
           auctor.
         image: images/feature2.png
         title: Automated backups strategies.
-      - actions:
-          - label: Learn More
-            url: /features
+      - actions: []
         content: >-
           You'll never see encrypted connection error. Unifi-hosted.com
-          automates the entire process. Your server is equipped with SSL
-          certificate **by default**.
-        image: images/feature3.png
+          automates the entire process. Your server is equipped with Letsencrypt
+          SSL certificate **by default**.
+        image: /images/feature3.png
         title: 'SSL certificates '
     section_id: features
     subtitle: >-
