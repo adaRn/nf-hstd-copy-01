@@ -1,4 +1,4 @@
-title: UniFi hosted
+title: UniFi hosting - UniFi in the cloud as SaaS provider
 baseURL: /
 params:
   footer:
@@ -16,7 +16,7 @@ params:
   header:
     has_nav: true
     logo_img: /images/unifi-hosting-orange.png
-    title: UniFi Hosted
+    title: UniFi Hosting.
     menu:
       actions:
         - label: Sign Up
