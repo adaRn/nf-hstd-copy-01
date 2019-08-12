@@ -82,10 +82,9 @@ sections:
     title: This Is Call To Action Block!
     type: ctablock
   - bg: gray
-    component: posts_block.html
-    section_id: recent-posts
-    title: Latest Posts
-    type: postsblock
+    component: pricing_block.html
+    pricingplans: []
+    type: pricingblock
 menu:
   main:
     name: Home
