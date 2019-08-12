@@ -17,4 +17,4 @@ Please subscribe to one of our [plans](/pricing). After successful subscription,
 
 ## 2. Log in to your instance and add devices
 
-When you've got your login details on your e-mail, use them to log in to your brand-new UniF instance. You can start moving your existing devices over using our [installation guide](/installation-guide).
+When you've got your login details on your e-mail, use them to log in to your brand-new UniF instance. You can start moving your existing devices over using our installation guide that you receive with your e-mail.
