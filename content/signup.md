@@ -3,6 +3,9 @@ title: How to start?
 subtitle: How to start with unifi-hosting.com in under one minute.
 img_path: /images/unifi-installed.jpg
 menu:
+  main:
+    name: How to start?
+    weight: 0
   secondary:
     name: How to start?
     weight: 1
