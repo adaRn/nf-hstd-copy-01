@@ -3,7 +3,7 @@ title: Home
 sections:
   - actions:
       - label: Choose plan
-        url: /features
+        url: /pricing
     component: hero_block.html
     content: >-
       In 53 seconds. No more fiddling with setting up scripts. Automated backup
