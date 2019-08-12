@@ -66,9 +66,7 @@ sections:
           Thanks again for putting so much thought into the service, it
           definitely shows to those who look!
     section_id: reviews
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+    subtitle: ''
     title: Testimonials
     type: reviewsblock
   - actions:
