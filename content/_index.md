@@ -28,11 +28,10 @@ sections:
           - label: Predictable pricing.
             url: /features
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          We store your backups in 3 different places. You can always retrieve
+          archived backups on any UniFi instance.
         image: /images/feature2.png
-        title: Automated backups strategies.
+        title: Automated backup strategies.
       - actions: []
         content: >-
           You'll never see encrypted connection error. Unifi-hosted.com
