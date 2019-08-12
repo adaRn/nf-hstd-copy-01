@@ -71,16 +71,12 @@ sections:
     type: reviewsblock
   - actions:
       - label: Get Started
-        url: /signup
+        url: /pricing
     component: cta_block.html
     section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    title: This Is Call To Action Block!
+    subtitle: and spin up your own UniFi instance in a matter of seconds
+    title: Sign up now!
     type: ctablock
-  - bg: gray
-    component: pricing_block.html
-    pricingplans: []
-    type: pricingblock
 menu:
   main:
     name: Home
