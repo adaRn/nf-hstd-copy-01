@@ -31,7 +31,7 @@ sections:
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
           auctor.
-        image: images/feature2.png
+        image: /images/feature2.png
         title: Automated backups strategies.
       - actions: []
         content: >-
@@ -39,10 +39,10 @@ sections:
           automates the entire process. Your server is equipped with Letsencrypt
           SSL certificate **by default**.
         image: /images/feature3.png
-        title: 'SSL certificates '
+        title: SSL certificates.
     section_id: features
     subtitle: >-
-      . We love Ubiquiti products. We are amazed by how easy to use they are. We
+      We love Ubiquiti products. We are amazed by how easy to use they are. We
       were fed up with how difficult it is to get it up and running.
     title: Features
     type: featuresblock
