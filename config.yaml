@@ -7,7 +7,7 @@ params:
     has_social: true
     has_subscribe: true
     links: []
-    logo_img: /images/logo.png
+    logo_img: /images/unifi-hosting-white.png
     nav_title: Company
     social_title: Community
     subscribe_content: Stay up to date with our latest developments.
@@ -15,7 +15,7 @@ params:
     tagline: Modelit Andrzej Sibik EU VAT ID PL9690000731
   header:
     has_nav: true
-    logo_img: /images/logo.png
+    logo_img: /images/unifi-hosting-orange.png
     title: UniFi Hosted
     menu:
       actions:
