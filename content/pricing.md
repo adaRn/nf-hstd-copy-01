@@ -5,7 +5,7 @@ sections:
     component: pricing_block.html
     pricingplans:
       - actions:
-          - label: Order Now
+          - label: Get Started
             url: >-
               https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PDLWQ8TGERVML
         details: |-
@@ -15,8 +15,9 @@ sections:
         price: $19/m
         title: Beginner
       - actions:
-          - label: Order Now
-            url: /signup
+          - label: Get Started
+            url: >-
+              https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CRGB4UCVSMQWW
         details: |-
           * up to 250 devices
           * unlimited sites
@@ -25,8 +26,9 @@ sections:
         price: $29/m
         title: Professional
       - actions:
-          - label: Order Now
-            url: /signup
+          - label: Get started
+            url: >-
+              https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=STSSLCGQYFHQQ
         details: |-
           * up to 250 devices
           * unlimited sites
@@ -41,28 +43,11 @@ sections:
     component: faq_block.html
     faqitems:
       - answer: >-
-          Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
-          tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
-          mollis feugiat. Praesent nibh libero, placerat et justo at, luctus
-          tristique enim. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas.
-        question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
-      - answer: >-
-          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit. 
-        question: Aliquam eget purus ante?
-      - answer: >-
-          Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
-          dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
-          dictum faucibus eget magna. Vivamus in hendrerit magna, non
-          pellentesque metus. Morbi orci odio, dictum at efficitur sit amet,
-          luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
-          lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
-          Etiam vehicula nunc velit, in consequat nisl feugiat nec.
-        question: Sed scelerisque in ipsum eu sollicitudin?
+          Absolutely yes. Please [speak to our sales](/contact) to get to know
+          what kind of rates we could offer to you.
+        question: I have more than 500 devices. Can I migrate to your service?
     section_id: faq
-    subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
+    subtitle: ''
     title: Frequently Asked Questions
     type: faqblock
 menu:
