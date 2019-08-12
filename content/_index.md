@@ -16,13 +16,13 @@ sections:
     component: features_block.html
     featureslist:
       - actions:
-          - label: Learn More
-            url: /features
+          - label: About us
+            url: /about-us
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        image: images/feature1.png
+          We’ve created a service we wish we had back then and we use on our own
+          with 13 000 devices and counting, mostly in Western Europe. With our
+          service, **you'll set up UniFi controller with a single click.**
+        image: /images/feature.png
         title: No more fiddling with setting up scripts.
       - actions:
           - label: Predictable pricing.
@@ -37,15 +37,15 @@ sections:
           - label: Learn More
             url: /features
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          You'll never see encrypted connection error. Unifi-hosted.com
+          automates the entire process. Your server is equipped with SSL
+          certificate **by default**.
         image: images/feature3.png
-        title: Cool Feature of Your Services
+        title: 'SSL certificates '
     section_id: features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      . We love Ubiquiti products. We are amazed by how easy to use they are. We
+      were fed up with how difficult it is to get it up and running.
     title: Features
     type: featuresblock
   - bg: white
