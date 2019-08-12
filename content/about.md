@@ -3,6 +3,9 @@ title: About Us
 subtitle: ''
 img_path: /images/boy-children-couple-2253879.jpg
 menu:
+  main:
+    name: About us
+    weight: -4
   secondary:
     name: About Us
     weight: 0
