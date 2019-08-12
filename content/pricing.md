@@ -30,7 +30,7 @@ sections:
             url: >-
               https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=STSSLCGQYFHQQ
         details: |-
-          * up to 250 devices
+          * up to 500 devices
           * unlimited sites
           * free HTTPS
         price: $49/m
