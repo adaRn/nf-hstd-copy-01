@@ -1,16 +1,17 @@
 ---
 title: About Us
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
-img_path: images/about.jpg
+subtitle: ''
+img_path: /images/boy-children-couple-2253879.jpg
 menu:
   secondary:
     name: About Us
-    weight: 1
+    weight: 0
 layout: page
 ---
+Like many of our customers,  we are SMB business owners and IT providers. We love Ubiquiti products. We are amazed by how easy to use they are. **We were fed up with how difficult it is to get it up and running.**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+After setting up more and more UniFi products, it felt to us that deploying Cloud Keys for every of our customers' sites is simply too expensive and cumbersome to manage. We would set up our own UniFi controller, but it is simply too difficult and time consuming.
 
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+We've created a service we wish we had back then and we **use on our own** with 13 000 devices and counting, mostly in Western Europe. With our service, it's possible to set up **UniFi controller with a single click**. You don't have to worry about installing SSL nor backups strategies. We automate the entire process for you.
+
+Sounds like exactly what you're looking for? [Have a look at our plans](/pricing) and get your UniFi instance up and running in a matter of minutes, not days. Oh, and did we also mention we take care of the system upgrades?
