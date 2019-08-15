@@ -76,8 +76,18 @@ sections:
     subtitle: and spin up your own UniFi instance in a matter of seconds
     title: Sign up now!
     type: ctablock
-  - component: hero_block.html
-    content: ''
+  - actions:
+      - label: Try it out
+        url: /pricing
+    component: hero_block.html
+    content: >-
+      After spending years with UniFi products, I realised that deploying Cloud
+      Keys for every consumer was simply too much and unnecessary. I've been
+      implementing and deploying UniFi controllers since, but it turned out
+      they're really difficult to manage by non-tech people. Especially when
+      managing backups, logs, and SSL certificates comes to play. That's why
+      I've started UniFi Hosting. Where you can have your own UniFi controller
+      in a matter of seconds, all automatically managed by us.
     image: /images/ja.jpg
     title: Founder
     type: heroblock
