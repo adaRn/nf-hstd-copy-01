@@ -76,6 +76,11 @@ sections:
     subtitle: and spin up your own UniFi instance in a matter of seconds
     title: Sign up now!
     type: ctablock
+  - component: hero_block.html
+    content: ''
+    image: /images/ja.jpg
+    title: Founder
+    type: heroblock
 menu:
   main:
     name: Home
