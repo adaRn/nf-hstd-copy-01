@@ -58,6 +58,7 @@ sections:
       I've started UniFi Hosting. Where you can have your own UniFi controller
       in a matter of seconds, all automatically managed by us.
     image: /images/ja.jpg
+    section_id: author
     title: Founder
     type: heroblock
   - bg: white
