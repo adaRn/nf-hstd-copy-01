@@ -26,7 +26,7 @@ sections:
         title: No more fiddling with setting up scripts.
       - actions:
           - label: Predictable pricing.
-            url: /features
+            url: /pricing
         content: >-
           We store your backups in 3 different places. You can always retrieve
           archived backups on any UniFi instance.
