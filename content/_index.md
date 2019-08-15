@@ -45,6 +45,21 @@ sections:
       were fed up with how difficult it is to get it up and running.
     title: Features
     type: featuresblock
+  - actions:
+      - label: Try it out
+        url: /pricing
+    component: hero_block.html
+    content: >-
+      After spending years with UniFi products, I realised that deploying Cloud
+      Keys for every consumer was simply too much and unnecessary. I've been
+      implementing and deploying UniFi controllers since, but it turned out
+      they're really difficult to manage by non-tech people. Especially when
+      managing backups, logs, and SSL certificates comes to play. That's why
+      I've started UniFi Hosting. Where you can have your own UniFi controller
+      in a matter of seconds, all automatically managed by us.
+    image: /images/ja.jpg
+    title: Founder
+    type: heroblock
   - bg: white
     component: reviews_block.html
     reviews:
@@ -68,21 +83,6 @@ sections:
     subtitle: ''
     title: Testimonials
     type: reviewsblock
-  - actions:
-      - label: Try it out
-        url: /pricing
-    component: hero_block.html
-    content: >-
-      After spending years with UniFi products, I realised that deploying Cloud
-      Keys for every consumer was simply too much and unnecessary. I've been
-      implementing and deploying UniFi controllers since, but it turned out
-      they're really difficult to manage by non-tech people. Especially when
-      managing backups, logs, and SSL certificates comes to play. That's why
-      I've started UniFi Hosting. Where you can have your own UniFi controller
-      in a matter of seconds, all automatically managed by us.
-    image: /images/ja.jpg
-    title: Founder
-    type: heroblock
   - actions:
       - label: Get Started
         url: /pricing
