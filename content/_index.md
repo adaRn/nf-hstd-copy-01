@@ -69,14 +69,6 @@ sections:
     title: Testimonials
     type: reviewsblock
   - actions:
-      - label: Get Started
-        url: /pricing
-    component: cta_block.html
-    section_id: call-to-action
-    subtitle: and spin up your own UniFi instance in a matter of seconds
-    title: Sign up now!
-    type: ctablock
-  - actions:
       - label: Try it out
         url: /pricing
     component: hero_block.html
@@ -91,6 +83,14 @@ sections:
     image: /images/ja.jpg
     title: Founder
     type: heroblock
+  - actions:
+      - label: Get Started
+        url: /pricing
+    component: cta_block.html
+    section_id: call-to-action
+    subtitle: and spin up your own UniFi instance in a matter of seconds
+    title: Sign up now!
+    type: ctablock
 menu:
   main:
     name: Home
