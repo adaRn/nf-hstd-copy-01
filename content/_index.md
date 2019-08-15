@@ -57,7 +57,7 @@ sections:
       managing backups, logs, and SSL certificates comes to play. That's why
       I've started UniFi Hosting. Where you can have your own UniFi controller
       in a matter of seconds, all automatically managed by us.
-    image: /images/ja.jpg
+    image: /images/chinese.jpg
     section_id: author
     title: Founder
     type: heroblock
