@@ -38,4 +38,4 @@ Make sure to set-inform another time after adopting the device to your site.
 
 Use default ubnt/ubnt credentials as set-inform credentials when using the Discovery Tool.
 
-If you need any help or have feedback on what we can improve please contact us: adamos135@gmail.com
+If you need any help or have feedback on what we can improve please [contact us.](/contact)
