@@ -4,14 +4,14 @@ params:
   footer:
     content: '&copy; Modelit Andrzej Sibik. All rights reserved.'
     has_nav: true
-    has_social: true
+    has_social: false
     has_subscribe: true
     links: []
     logo_img: /images/unifi-hosting-white.png
     nav_title: Company
     social_title: Community
     subscribe_content: Stay up to date with our latest developments.
-    subscribe_title: Subscribe
+    subscribe_title: Subscribe for news
     tagline: Modelit Andrzej Sibik EU VAT ID PL9690000731
   header:
     has_nav: true
