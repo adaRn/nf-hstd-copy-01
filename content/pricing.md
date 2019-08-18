@@ -46,6 +46,13 @@ sections:
           Absolutely yes. Please [speak to our sales](/contact) to get to know
           what kind of rates we could offer to you.
         question: I have more than 500 devices. Can I migrate to your service?
+      - answer: Of course. We issue EU VAT invoices.
+        question: Do you issue invoices?
+      - answer: >-
+          We currently offer Unifi system only at this point, but till the end
+          of this year we will also support  Ubiquiti Network Management System
+          as well.
+        question: Do you also host UNMS?
     section_id: faq
     subtitle: ''
     title: Frequently Asked Questions
