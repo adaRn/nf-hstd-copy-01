@@ -4,9 +4,9 @@ subtitle: Instructions on how to get your UniFi running
 img_path: /images/screenshot-2019-08-10-at-13.32.51.png
 menu:
   main:
-    identifier: subscription finalised
+    identifier: ''
   secondary:
-    identifier: subscription finalised
+    identifier: ''
     name: ''
 layout: page
 ---
