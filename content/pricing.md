@@ -5,6 +5,17 @@ sections:
     component: pricing_block.html
     pricingplans:
       - actions:
+          - label: Start unlimited trial!
+            url: >-
+              https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q7QBWPQSG4NRE
+        details: |-
+          * up to 5 devices
+          * 1 site
+          * free HTTPS
+        highlight: true
+        price: $1/mo
+        title: Trial
+      - actions:
           - label: Get Started
             url: >-
               https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PDLWQ8TGERVML
