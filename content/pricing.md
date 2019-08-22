@@ -12,7 +12,7 @@ sections:
           * up to 5 devices
           * 1 site
           * free HTTPS
-        highlight: true
+        highlight: false
         price: $1/mo
         title: Trial
       - actions:
