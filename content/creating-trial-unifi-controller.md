@@ -10,6 +10,6 @@ Your controller is being created.
 
 function append(txt) {document.querySelector('.provisioning-box').innerHTML += txt}
 
-setTimeout(append('<br> Setting up VPS...'), 3000)
+setTimeout(function(){append('<br> Setting up VPS...')}, 3000)
 
 </script>
