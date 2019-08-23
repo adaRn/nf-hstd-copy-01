@@ -19,9 +19,10 @@ sections:
           - label: About us
             url: /about
         content: >-
-          We’ve created a service we wish we had back then and we use on our own
-          with 13 000 devices and counting, mostly in Western Europe. With our
-          service, **you'll set up UniFi controller with a single click.**
+          We’ve created a service we wish we use on our own with 13 000+
+          devices. Now we share it with you. Thanks to the experience we've
+          gathered, **you'll set up your UniFi controller here with a single
+          click.**
         image: /images/feature.png
         title: No more fiddling with setting up scripts.
       - actions:
