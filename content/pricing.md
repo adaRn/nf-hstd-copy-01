@@ -60,10 +60,15 @@ sections:
       - answer: Of course. We issue EU VAT invoices.
         question: Do you issue invoices?
       - answer: >-
-          We currently offer Unifi system only at this point, but till the end
-          of this year we will also support  Ubiquiti Network Management System
-          as well.
+          We currently offer Unifi system only at this point, but by the end of
+          this year we will also support  Ubiquiti Network Management System as
+          well.
         question: Do you also host UNMS?
+      - answer: >-
+          It's just one month. If you decide you're still better off hosting
+          UniFi on your own, you don't lose anything. But trust us, you won't
+          decide it.
+        question: Whar's the minimum commitment?
     section_id: faq
     subtitle: ''
     title: Frequently Asked Questions
