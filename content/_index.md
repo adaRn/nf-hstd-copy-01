@@ -35,15 +35,15 @@ sections:
         title: Automated backup strategies.
       - actions: []
         content: >-
-          You'll never see encrypted connection error. Unifi-hosted.com
+          You'll never see any encrypted connection errors. Unifi-hosted.com
           automates the entire process. Your server is equipped with Letsencrypt
           SSL certificate **by default**.
         image: /images/feature3.png
         title: SSL certificates.
     section_id: features
     subtitle: >-
-      We love Ubiquiti products. We are amazed by how easy to use they are. We
-      were fed up with how difficult it is to get it up and running.
+      We love Ubiquiti products. We are amazed by how easy to use they are, but
+      we were fed up with how difficult they are to get it up and running.
     title: Features
     type: featuresblock
   - actions:
