@@ -13,7 +13,7 @@ sections:
           * 1 site
           * free HTTPS
         highlight: false
-        price: $1/mo
+        price: $5/mo
         title: Trial
       - actions:
           - label: Get Started
