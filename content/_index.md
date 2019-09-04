@@ -58,6 +58,9 @@ sections:
       managing backups, logs, and SSL certificates comes to play. That's why
       I've started UniFi Hosting. Where you can have your own UniFi controller
       in a matter of seconds, all automatically managed by us.
+
+
+      **Radek Novak, founder**
     image: /images/tpdne.jpeg
     section_id: author
     title: Founder
